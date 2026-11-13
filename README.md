@@ -1,11 +1,12 @@
 # Thiệp chúc mừng 20/11
 
 Thiệp điện tử chúc mừng Ngày Nhà giáo Việt Nam, tối ưu cho điện thoại.
-Chạm con dấu để xem phong bì bung mở và tấm thiệp trượt ra, phóng lớn.
+Bìa ngoài và hiệu ứng mở lấy từ mẫu được cung cấp. Ảnh bìa `bia-thiep.png` được tách nguyên từ ảnh PNG nhúng trong mẫu. Chạm con dấu vàng để bìa thu nhỏ, nghiêng và trượt xuống, sau đó xem video `20_11.mp4`.
+Nếu trình duyệt chặn tự phát, nhấn nút phát trên video. Chọn “Xem lại bìa thiệp” để dừng video và trở về ảnh bìa.
 
 ## Xem trên máy
 
-Mở `thiep.html` trong trình duyệt. Giữ ảnh `Thiệp chúc mừng.png` cùng thư mục với file HTML.
+Mở `thiep.html` trong trình duyệt. Giữ ảnh bìa `bia-thiep.png` và video `20_11.mp4` cùng thư mục với file HTML.
 
 ## Triển khai lên Vercel
 
